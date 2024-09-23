@@ -1,0 +1,2 @@
+# Python
+KhPI-Python labs
